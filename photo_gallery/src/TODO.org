@@ -1,0 +1,12 @@
+Yuki's Photo Gallery
+* TODO Learn emacs
+* TODO Research other photo apps
+* TODO Sketch UI in Precursorapp https://precursorapp.com/document/Yukis-Photo-Gallery-App-Sketch-17592206099085/start
+** What does the app do?
+We're not sure yet
+** Who uses it?
+Who knows?
+** What does it look like
+*** On Desktop
+*** On a phone (in iOS mobile Safari browser)
+* TODO Implement React.js photo gallery
